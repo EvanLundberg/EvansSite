@@ -23,3 +23,16 @@
 }
 
 
+@media(max-width: 991px) {
+  .wip-placeholder-text1 {
+    text-align: center;
+  }
+}
+@media(max-width: 479px) {
+  .wip-placeholder-container1 {
+    width: 100%;
+  }
+  .wip-placeholder-text1 {
+    text-align: center;
+  }
+}

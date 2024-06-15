@@ -148,3 +148,12 @@
     width: 100%;
   }
 }
+@media(max-width: 479px) {
+  .landing-hero-text {
+    width: 219px;
+    text-align: center;
+  }
+  .landing-hero-text1 {
+    text-align: center;
+  }
+}

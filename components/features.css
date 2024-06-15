@@ -138,3 +138,25 @@
     grid-template-columns: 1fr;
   }
 }
+@media(max-width: 767px) {
+  .features-container1 {
+    height: 100%;
+  }
+  .features-image {
+    height: 100%;
+  }
+  .features-image1 {
+    height: 100%;
+  }
+  .features-image2 {
+    height: 100%;
+  }
+}
+@media(max-width: 479px) {
+  .features-container1 {
+    width: 100%;
+  }
+  .features-image-container {
+    height: 250px;
+  }
+}
